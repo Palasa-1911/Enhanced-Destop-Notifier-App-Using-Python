@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Morning Reminder",
+        "message": "Start your day with a positive thought!",
+        "time": "09:00"
+    },
+    {
+        "title": "Lunch Reminder",
+        "message": "Time to take a break and have lunch.",
+        "time": "12:00"
+    },
+    {
+        "title": "Evening Reminder",
+        "message": "Wrap up your work and relax.",
+        "time": "20:21"
+    }
+]
